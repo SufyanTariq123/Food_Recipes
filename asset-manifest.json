@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Food_Recipes/static/css/main.bee3e378.chunk.css",
+    "main.js": "/Food_Recipes/static/js/main.18bdaaad.chunk.js",
+    "main.js.map": "/Food_Recipes/static/js/main.18bdaaad.chunk.js.map",
+    "runtime-main.js": "/Food_Recipes/static/js/runtime-main.34b4ec42.js",
+    "runtime-main.js.map": "/Food_Recipes/static/js/runtime-main.34b4ec42.js.map",
+    "static/js/2.1ac56555.chunk.js": "/Food_Recipes/static/js/2.1ac56555.chunk.js",
+    "static/js/2.1ac56555.chunk.js.map": "/Food_Recipes/static/js/2.1ac56555.chunk.js.map",
+    "index.html": "/Food_Recipes/index.html",
+    "precache-manifest.544801eaca4f9cf4692f0af4a8f81354.js": "/Food_Recipes/precache-manifest.544801eaca4f9cf4692f0af4a8f81354.js",
+    "service-worker.js": "/Food_Recipes/service-worker.js",
+    "static/css/main.bee3e378.chunk.css.map": "/Food_Recipes/static/css/main.bee3e378.chunk.css.map",
+    "static/js/2.1ac56555.chunk.js.LICENSE.txt": "/Food_Recipes/static/js/2.1ac56555.chunk.js.LICENSE.txt",
+    "static/media/Food.png": "/Food_Recipes/static/media/Food.20ed7125.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.34b4ec42.js",
+    "static/js/2.1ac56555.chunk.js",
+    "static/css/main.bee3e378.chunk.css",
+    "static/js/main.18bdaaad.chunk.js"
+  ]
+}
